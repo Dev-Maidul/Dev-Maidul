@@ -1,9 +1,7 @@
-<h1 align="center" style="font-weight: bold; font-size: 3em;">
-  Hi there 👋, I'm Md Maidul Islam
-</h1>
-<p align="center" style="font-weight: bold; font-size: 1.5em;">
+<h1 align="center">Hi there 👋, I'm Md Maidul Islam</h1>
+<p align="center">
   🌍 Full-Stack Developer | 🎓 CSE Student in Beijing | 🕌 Muslim | 🇧🇩 From Bangladesh
-</p>
+</p> use that
 
 
 const devMaidul = {
