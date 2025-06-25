@@ -1,18 +1,10 @@
-<h1 align="center">Hi there 👋, I'm Md Maidul Islam</h1>
-<p align="center">
+<h1 align="center" style="font-weight: bold; font-size: 3em;">
+  Hi there 👋, I'm Md Maidul Islam
+</h1>
+<p align="center" style="font-weight: bold; font-size: 1.5em;">
   🌍 Full-Stack Developer | 🎓 CSE Student in Beijing | 🕌 Muslim | 🇧🇩 From Bangladesh
 </p>
 
----
-
-<p align="center">
-  <img src="https://github.com/Dev-Maidul/Dev-Maidul/blob/main/github-banner.png">
-</p>
-
-```js
-### 💫 About Me:
-
-I am a passionate Bangladeshi developer based in Beijing 🇨🇳, currently pursuing a CSE degree. I specialize in building modern full-stack web applications with a strong emphasis on clean code, collaboration, and creating impactful solutions. I'm always excited to connect with new people in the tech community, so feel free to say hi!
 
 const devMaidul = {
   name: "Md Maidul Islam",
