@@ -1,33 +1,26 @@
 ## Hi there 👋
 
-// Dev-Maidul | Full-Stack Web Developer
-
-class FullStackDeveloper {
-  constructor() {
-    this.name = "Md Maidul Islam";
-    this.role = "Full-Stack Web Developer | CSE Student";
-    this.location = "Beijing, China (Originally from Bangladesh)";
-    this.education = "BSc in Computer Science, China University of Petroleum";
-    this.experience = [
-      "Teaching Assistant - C Programming (1+ year)",
-      "Completed 10+ real-world web projects"
-    ];
-    this.techStack = [
-      "HTML", "CSS", "Tailwind CSS", "JavaScript (ES6)",
-      "React.js", "Node.js", "Express.js",
-      "MongoDB", "Firebase Authentication"
-    ];
-    this.languagesSpoken = ["English", "Bengali", "Chinese (basic)"];
-    this.goal = "To contribute to impactful products and secure a remote developer role.";
-  }
-
-  sayHi() {
-    console.log("Assalamu Alaikum! 👋");
-    console.log("I'm Maidul — a passionate full-stack developer who loves clean code, performance, and real-world problem solving.");
-    console.log("Feel free to explore my work or connect for collaboration or opportunities!");
-  }
+```javascript
+const devMaidul = {
+  name: "Md Maidul Islam",
+  pronouns: "He" | "Him",
+  position: "Full-Stack Web Developer" | "CSE Student",
+  location: "Beijing, China",
+  from: "Bangladesh",
+  education: {
+    degree: "BSc in Computer Science",
+    university: "China University of Petroleum"
+  },
+  skills: {
+    frontend: ["HTML", "CSS", "Tailwind CSS", "JavaScript (ES6)", "React.js"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB"],
+    auth: ["Firebase Authentication"]
+  },
+  experience: [
+    "Teaching Assistant for C Programming (1+ year)",
+    "Built 10+ real-world web projects"
+  ],
+  languages: ["Bengali", "English", "Chinese (basic)"],
+  currentFocus: "To contribute to impactful products and secure a remote developer role."
 }
-
-const me = new FullStackDeveloper();
-me.sayHi();
-
