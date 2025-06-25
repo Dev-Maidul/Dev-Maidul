@@ -54,7 +54,8 @@ function introduceDeveloper(dev) {
 
 introduceDeveloper(devMaidul);
 
-![HTML](https://img.shields.io/badge/Tech-HTML5-E34F26)
+![Static Badge](https://img.shields.io/badge/HTML5-HTML5-E34F26)
+
 
 
 
