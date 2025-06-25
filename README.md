@@ -1,7 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Md Maidul Islam</h1>
+<p align="center">
+  🌍 Full-Stack Developer | 🎓 CSE Student in Beijing | 🕌 Muslim | 🇧🇩 From Bangladesh
+</p>
 
-```// 📌 A little more about me...
+---
+
+```js
+// 📌 A little more about me...
 // I'm a passionate Bangladeshi developer based in Beijing 🇨🇳, currently pursuing a CSE degree and building modern full-stack web applications with love for clean code, collaboration, and impact. 🌍💻
+// I love connecting with different people, so if you want to say hi, I'll be happy to meet you more! 😊
 
 const devMaidul = {
   name: "Md Maidul Islam",
@@ -42,4 +49,3 @@ function introduceDeveloper(dev) {
 }
 
 introduceDeveloper(devMaidul);
-
