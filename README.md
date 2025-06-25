@@ -54,9 +54,6 @@ function introduceDeveloper(dev) {
 
 introduceDeveloper(devMaidul);
 
-
-
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -84,17 +81,6 @@ introduceDeveloper(devMaidul);
 ![CORS](https://img.shields.io/badge/CORS-734f96?style=for-the-badge&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-
-
-
-
-
-
-
-
 
 
 💡 “Every bug is just an unanswered question. Solve it, and the story continues.”
