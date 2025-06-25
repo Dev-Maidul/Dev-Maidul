@@ -9,7 +9,7 @@
   <img src="https://github.com/Dev-Maidul/Dev-Maidul/blob/main/github-banner.png" alt="GitHub banner">
 </p>
 
-### 💫 About Me: 
+### 💫 About Me: I am a passionate Bangladeshi developer based in Beijing 🇨🇳, currently pursuing a CSE degree. I specialize in building modern full-stack web applications with a strong emphasis on clean code, collaboration, and creating impactful solutions. I'm always excited to connect with new people in the tech community, so feel free to say hi!
 
 ```js
 I am a passionate Bangladeshi developer based in Beijing 🇨🇳, currently pursuing a CSE degree. I specialize in building modern full-stack web applications with a strong emphasis on clean code, collaboration, and creating impactful solutions. I'm always excited to connect with new people in the tech community, so feel free to say hi!
