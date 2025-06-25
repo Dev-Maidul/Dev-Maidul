@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="[/github-banner](https://github.com/Dev-Maidul/Dev-Maidul/edit/main/README.md)">
+  <img src="https://github.com/Dev-Maidul/Dev-Maidul/blob/main/github-banner.png">
 </p>
 
 ```js
