@@ -9,7 +9,7 @@
   <img src="https://github.com/Dev-Maidul/Dev-Maidul/blob/main/github-banner.png" alt="GitHub banner">
 </p>
 
-### 💫 About Me: I am a passionate Bangladeshi developer based in Beijing 🇨🇳, currently pursuing a CSE degree. I specialize in building modern full-stack web applications with a strong emphasis on clean code, collaboration, and creating impactful solutions. I'm always excited to connect with new people in the tech community, so feel free to say hi!
+### 💫 About Me: 
 
 ```js
 I am a passionate Bangladeshi developer based in Beijing 🇨🇳, currently pursuing a CSE degree. I specialize in building modern full-stack web applications with a strong emphasis on clean code, collaboration, and creating impactful solutions. I'm always excited to connect with new people in the tech community, so feel free to say hi!
@@ -63,11 +63,9 @@ function introduceDeveloper(dev) {
 ![Express.js
 
 
-
 💡 “Every bug is just an unanswered question. Solve it, and the story continues.”
-
 — Md Maidul Islam
 
 
 
-![Quote](https://img.shields.io/badge/Quote-Code%20is%20like%20humor.--lightgrey?style=for-the-badge&logo=github) call
+
