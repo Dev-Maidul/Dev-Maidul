@@ -4,7 +4,9 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://github.com/Dev-Maidul/Dev-Maidul/blob/main/github-banner.png" alt="Dev-Maidul Banner">
+</p>
 ```js
 // 📌 A little more about me...
 // I'm a passionate Bangladeshi developer based in Beijing 🇨🇳, currently pursuing a CSE degree and building modern full-stack web applications with love for clean code, collaboration, and impact. 🌍💻
