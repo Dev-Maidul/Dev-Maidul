@@ -4,7 +4,7 @@
 </p>
 
 ---
-<p align="center">
+```<p align="center">
   <img src="https://github.com/Dev-Maidul/Dev-Maidul/blob/main/github-banner.png" alt="Dev-Maidul Banner">
 </p>
 ```js
