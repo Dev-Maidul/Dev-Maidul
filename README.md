@@ -1,118 +1,76 @@
-````md
-<h1 align="center">Md Maidul Islam</h1>
-<h3 align="center">Full-Stack Web Developer • CSE Student</h3>
+<h1 align="center">Hi there 👋, I'm Md Maidul Islam</h1>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Location-Beijing,%20China-blue?style=flat-square"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/From-Bangladesh-green?style=flat-square"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Open%20to-Remote%20Roles-orange?style=flat-square"/></a>
+  🌍 Full-Stack Developer | 🎓 CSE Student in Beijing | 🕌 Muslim | 🇧🇩 From Bangladesh
 </p>
+
+---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dev-Maidul/Dev-Maidul/main/github-banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/Dev-Maidul/Dev-Maidul/main/github-banner.png" alt="GitHub banner" width="100%" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 💫 About Me
 
-Full-Stack Web Developer with strong experience in building **scalable, secure, and high-performance web applications**.  
-Currently pursuing **BSc in Computer Science & Engineering** in **Beijing, China**.  
-Focused on **clean architecture, modern tooling, and production-ready solutions**.
-
----
-
-## 🧩 Tech Stack Overview
-
-### 🚀 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
-</p>
-
-### 🎨 Styling & UI
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img height="48" src="https://raw.githubusercontent.com/saadeghi/daisyui-images/master/logo-64.png" />
-  <img src="https://skillicons.dev/icons?i=reactrouter" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  <img height="48" src="https://jwt.io/img/pic_logo.svg" />
-</p>
-
-### 🗄️ Databases & ORM
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma" />
-</p>
-
-### 🔐 Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,git,github" />
-</p>
+I am a passionate Bangladeshi developer based in Beijing 🇨🇳, currently pursuing a CSE degree.  
+I specialize in building modern full-stack web applications with a strong emphasis on clean code, collaboration, and creating impactful solutions.  
+I'm always excited to connect with new people in the tech community, so feel free to say hi!
 
 ---
 
-## 🧠 Developer Configuration
+### 💻 Tech Stack
 
-```ts
-interface DeveloperProfile {
-  name: string;
-  title: string;
-  location: string;
-  education: string;
-  specialization: string[];
-  experience: string[];
-  languages: string[];
-  careerGoal: string;
-}
+![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwind_css-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![CORS](https://img.shields.io/badge/CORS-734f96?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-const devMaidul: DeveloperProfile = {
+---
+
+### 🧠 Code Snapshot (for fun!)
+
+<details>
+<summary>Click to view "devMaidul" object 👨‍💻</summary>
+
+```javascript
+const devMaidul = {
   name: "Md Maidul Islam",
-  title: "Full-Stack Web Developer",
+  pronouns: "He | Him",
+  position: "Full-Stack Web Developer | CSE Student",
   location: "Beijing, China",
-  education: "BSc in Computer Science & Engineering",
-  specialization: [
-    "Frontend Architecture",
-    "RESTful APIs",
-    "Authentication & Authorization",
-    "Database Design"
-  ],
+  from: "Bangladesh",
+  education: {
+    degree: "BSc in Computer Science",
+    university: "China University of Petroleum"
+  },
+  skills: {
+    frontend: ["HTML", "CSS", "Tailwind CSS", "JavaScript (ES6)", "React.js", "Next.js"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB"],
+    auth: ["Firebase Authentication"]
+  },
   experience: [
-    "Teaching Assistant – C Programming (1+ year)",
-    "Built 10+ production-ready web applications"
+    "Teaching Assistant for C Programming (1+ year)",
+    "Built 10+ real-world web projects"
   ],
-  languages: ["Bengali", "English", "Chinese (Basic)"],
-  careerGoal: "Secure a remote full-stack developer role and build impactful software products."
+  languages: ["Bengali", "English", "Chinese (basic)"],
+  currentFocus: "To contribute to impactful products and secure a remote developer role before December 25."
 };
-
-export default devMaidul;
-````
-
----
-
-## 📫 Connect
-
-<p>
-  <img src="https://img.shields.io/badge/GitHub-Dev--Maidul-black?style=for-the-badge&logo=github"/>
-</p>
-
-⭐ *Crafted with focus on clarity, professionalism, and recruiter appeal*
-
-```
-
-This version:
-- ✅ Uses **skillicons.dev** (much cleaner & modern)
-- ✅ Balanced whitespace & typography
-- ✅ Recruiter-friendly wording
-- ✅ Professional, minimal, eye-catching
-
-If you want next:
-- 📊 GitHub stats (premium layout)
-- 🌐 Portfolio + socials row
-- 🏆 Achievements section
-- 📈 Activity graph
-
-Say **which one** you want.
-```
