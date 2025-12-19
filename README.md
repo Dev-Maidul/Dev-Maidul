@@ -1,26 +1,28 @@
-<h1 align="center">Md Maidul Islam</h1>
+<h1 align="center">Hi there 👋, I'm Md Maidul Islam</h1>
 
 <p align="center">
-  Full-Stack Web Developer | Computer Science Student | Beijing, China
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dev-Maidul/Dev-Maidul/main/github-banner.png" alt="Professional banner showcasing code background with name and title" width="100%" />
+  🌍 Full-Stack Developer | 🎓 CSE Student in Beijing | 🕌 Muslim | 🇧🇩 From Bangladesh
 </p>
 
 ---
 
-### About Me
-
-I am a dedicated full-stack web developer from Bangladesh, currently pursuing a Bachelor's degree in Computer Science and Engineering at China University of Petroleum in Beijing, China.
-
-With a strong foundation in modern web technologies, I specialize in developing robust, scalable full-stack applications. I emphasize clean, maintainable code, effective collaboration, and delivering high-impact solutions.
-
-I am passionate about contributing to innovative projects and am open to professional opportunities in software development.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dev-Maidul/Dev-Maidul/main/github-banner.png" alt="GitHub banner" width="100%" />
+</p>
 
 ---
 
-### Tech Stack
+### 💫 About Me
+
+I'm a passionate **Full-Stack Developer** from **Bangladesh**, currently based in **Beijing, China**, pursuing a **BSc in Computer Science and Engineering**.  
+I specialize in building **modern, scalable web applications** with a strong focus on **clean, maintainable code** and **collaborative development**.  
+
+With a deep interest in both frontend and backend technologies, I enjoy turning complex ideas into elegant digital solutions.  
+I'm always open to connecting with fellow developers, innovators, and tech enthusiasts—let’s collaborate and create something impactful!
+
+---
+
+### 💻 Tech Stack
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,54 +44,21 @@ I am passionate about contributing to innovative projects and am open to profess
 
 #### Databases & ORM
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-#### Tools & Authentication
+#### Authentication & Tools
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![CORS](https://img.shields.io/badge/CORS-734f96?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### Professional Snapshot
+### 🧠 Code Snapshot
 
 <details>
-<summary>Click to expand professional profile object</summary>
+<summary>Click to view <strong>devMaidul</strong> object 👨‍💻</summary>
 
-```javascript
-const maidulIslam = {
-  name: "Md Maidul Islam",
-  pronouns: "He/Him",
-  role: "Full-Stack Web Developer",
-  education: {
-    degree: "BSc in Computer Science and Engineering",
-    university: "China University of Petroleum, Beijing",
-    status: "Current Student"
-  },
-  location: {
-    current: "Beijing, China",
-    origin: "Bangladesh"
-  },
-  skills: {
-    frontend: ["HTML5", "CSS3", "JavaScript (ES6+)", "TypeScript", "React.js", "Next.js", "Tailwind CSS", "DaisyUI"],
-    backend: ["Node.js", "Express.js"],
-    databases: ["MongoDB", "MySQL", "PostgreSQL", "Prisma"],
-    authentication: ["JWT", "Firebase Authentication"],
-    tools: ["Git", "GitHub"]
-  },
-  experience: [
-    "Teaching Assistant - C Programming (1+ year)",
-    "Developed 10+ full-stack web applications"
-  ],
-  languages: ["Bengali (Native)", "English (Fluent)", "Chinese (Basic)"],
-  professionalGoal: "Seeking remote full-stack developer opportunities to contribute to innovative projects"
-};
-```
-
-</details>
-
-Here's a more professional version of your GitHub README. I refined the language to be concise and polished, removed casual elements (like excessive emojis and "for fun!"), restructured sections for better flow, and updated the code object to sound more formal while keeping all key information intact.
-
-Your current banner looks great and professional already (dark code-themed background with your name and title), so no need to change it. If you'd like further tweaks, such as adding links to your portfolio/projects or social icons, let me know!
