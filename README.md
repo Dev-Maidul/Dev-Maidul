@@ -60,7 +60,7 @@ A dedicated **Computer Science undergraduate** at China University of Petroleum 
 
 ### **Teaching Assistant - C Programming**
 *China University of Petroleum • September 2023 - Present*
-- Provide technical guidance to 50+ undergraduate students on fundamental programming concepts
+- Provide technical guidance to 150+ undergraduate students on fundamental programming concepts
 - Develop supplemental learning materials and practical coding exercises
 - Conduct code reviews and debugging sessions to enhance student comprehension
 - Assist in curriculum development and laboratory instruction
@@ -76,7 +76,7 @@ A dedicated **Computer Science undergraduate** at China University of Petroleum 
 
 **Bachelor of Science in Computer Science**  
 *China University of Petroleum, Beijing*  
-*Expected Graduation: 2025*
+*Expected Graduation: 2027*
 
 **Relevant Coursework:**
 - Data Structures & Algorithms
