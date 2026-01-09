@@ -14,6 +14,20 @@
   <em>Open to Remote & Global Opportunities</em>
 </p>
 
+<p align="center">
+  📧 <a href="mailto:maidulislammanik8991@gmail.com">maidulislammanik8991@gmail.com</a> &nbsp;|&nbsp;
+  📞 +86&nbsp;131&nbsp;6175&nbsp;0176
+</p>
+
+<p align="center">
+  <a href="https://github.com/Dev-Maidul">GitHub</a> •
+  <a href="https://www.linkedin.com/in/maidul-devs/">LinkedIn</a> •
+  <a href="https://maiduldevs.netlify.app/">Portfolio</a> •
+  <a href="https://codeforces.com/profile/Maidul">Codeforces</a> •
+  <a href="https://leetcode.com/u/maidulislammanik8991/">LeetCode</a> •
+  <a href="https://www.upwork.com/freelancers/~01a039892954a8969f?mp_source=share">Upwork</a>
+</p>
+
 <hr/>
 
 <p align="center">
@@ -28,7 +42,7 @@
 
 ## 🎯 Professional Summary
 
-Computer Science undergraduate at **China University of Petroleum** with strong hands-on experience in **full-stack web development** and **technical instruction**. Proven ability to design, develop, and deploy scalable web applications using modern JavaScript frameworks and backend technologies. Adept at translating academic knowledge into production-ready solutions. Actively seeking **remote roles, internships, or contract opportunities** in software engineering.
+Computer Science undergraduate at **China University of Petroleum** with strong hands-on experience in **full-stack web development** and **technical instruction**. Skilled in building scalable, secure, and maintainable web applications using modern JavaScript frameworks and backend technologies. Combines academic foundations with real-world development experience. Actively seeking **remote roles, internships, or contract opportunities** in software engineering.
 
 ---
 
@@ -56,7 +70,7 @@ Computer Science undergraduate at **China University of Petroleum** with strong 
 ![OAuth](https://img.shields.io/badge/OAuth_2.0-3C3C3D?style=for-the-badge\&logo=openid\&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT_Sessions-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
 
-> Secure, production-ready authentication using OAuth providers, session-based auth, and JWT strategies.
+> Secure authentication with OAuth providers, session-based authentication, and JWT strategies.
 
 ### 🚀 DevOps, Cloud & Tools
 
@@ -73,19 +87,19 @@ Computer Science undergraduate at **China University of Petroleum** with strong 
 
 *China University of Petroleum | Sep 2023 – Present*
 
-* Support and mentor **150+ undergraduate students** in core programming concepts
-* Conduct debugging sessions, code reviews, and lab assistance
-* Design supplementary exercises to reinforce problem-solving skills
-* Assist faculty with coursework delivery and assessment preparation
+* Mentored **150+ undergraduate students** in core programming concepts
+* Conducted debugging sessions and code reviews
+* Developed supplementary learning materials and lab exercises
+* Supported faculty with coursework delivery and assessments
 
 ### **Independent Full-Stack Developer**
 
 *Project-Based | 2022 – Present*
 
-* Built **10+ full-stack applications** using MERN and Next.js
+* Developed **10+ full-stack applications** using MERN and Next.js
 * Designed RESTful APIs and optimized database schemas
-* Implemented secure authentication and role-based access control
-* Deployed applications with CI/CD workflows and production configurations
+* Implemented authentication, authorization, and role-based access
+* Deployed applications with production-ready configurations
 
 ---
 
@@ -95,7 +109,7 @@ Computer Science undergraduate at **China University of Petroleum** with strong 
 *China University of Petroleum, Beijing*
 **Expected Graduation:** 2027
 
-**Key Coursework**
+**Relevant Coursework**
 
 * Data Structures & Algorithms
 * Database Management Systems
@@ -116,19 +130,18 @@ Computer Science undergraduate at **China University of Petroleum** with strong 
 
 ## 📌 Current Focus
 
-* Advanced TypeScript patterns for large-scale applications
+* Advanced TypeScript for large-scale applications
 * Cloud fundamentals (AWS / Azure)
-* Open-source contributions (React & tooling ecosystem)
-* Interview preparation and competitive programming
+* Competitive programming (Codeforces & LeetCode)
+* Open-source contributions
 
 ---
 
-## 🤝 Open to Collaboration
+## 🤝 Open to Opportunities
 
-Interested in connecting with:
-
-* Software engineers and mentors
-* Startup founders and product teams
-* Recruiters hiring remote or junior full-stack developers
+* Remote full-stack developer roles
+* Internships and contract-based projects
+* Open-source collaboration
+* Technical mentorship and learning opportunities
 
 ---
