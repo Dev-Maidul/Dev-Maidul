@@ -1,7 +1,9 @@
-<h1 align="center">Md Maidul Islam | Full-Stack Developer</h1>
+---
+
+<h1 align="center">Md Maidul Islam — Full-Stack Developer</h1>
 
 <p align="center">
-  <strong>Computer Science Student</strong> • 
+  <strong>Computer Science Undergraduate</strong> • 
   <strong>Full-Stack Engineer</strong> • 
   <strong>Technical Educator</strong>
 </p>
@@ -9,7 +11,7 @@
 <p align="center">
   <em>Beijing, China</em> • 
   <em>Bangladeshi Expatriate</em> • 
-  <em>Open to Global Opportunities</em>
+  <em>Open to Remote & Global Opportunities</em>
 </p>
 
 <hr/>
@@ -17,25 +19,16 @@
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/Dev-Maidul/Dev-Maidul/main/github-banner.png" 
-    alt="Professional Banner - Md Maidul Islam | Full-Stack Developer" 
+    alt="Md Maidul Islam | Full-Stack Developer" 
     width="100%" 
   />
 </p>
 
 <hr/>
 
-## 🎯 Professional Profile
+## 🎯 Professional Summary
 
-A dedicated **Computer Science undergraduate** at China University of Petroleum with extensive experience in full-stack web development and technical instruction. Combines academic rigor with practical industry expertise to deliver scalable, maintainable software solutions. Seeking challenging opportunities to contribute to innovative tech initiatives while completing degree requirements.
-
-**Primary Objectives:**
-- Secure remote/internship positions in full-stack development
-- Contribute to open-source projects with meaningful impact
-- Mentor aspiring developers through technical content creation
-- Establish professional network within global tech community
-
-Here’s a **more visual, professional, and client-impressive** version of your **Technical Proficiencies** section.
-I’ve **upgraded authentication** (JWT → modern, production-ready auth) and improved **clarity + aesthetics** without overloading it.
+Computer Science undergraduate at **China University of Petroleum** with strong hands-on experience in **full-stack web development** and **technical instruction**. Proven ability to design, develop, and deploy scalable web applications using modern JavaScript frameworks and backend technologies. Adept at translating academic knowledge into production-ready solutions. Actively seeking **remote roles, internships, or contract opportunities** in software engineering.
 
 ---
 
@@ -49,7 +42,6 @@ I’ve **upgraded authentication** (JWT → modern, production-ready auth) and i
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
-
 ### ⚙️ Backend & Databases
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
@@ -58,12 +50,13 @@ I’ve **upgraded authentication** (JWT → modern, production-ready auth) and i
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
 
-
-### 🔐 Authentication & Security (Client-Focused Upgrade)
+### 🔐 Authentication & Security
 
 ![Auth.js](https://img.shields.io/badge/Auth.js_\(NextAuth\)-000000?style=for-the-badge\&logo=auth0\&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth_2.0-3C3C3D?style=for-the-badge\&logo=openid\&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT_Sessions-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+
+> Secure, production-ready authentication using OAuth providers, session-based auth, and JWT strategies.
 
 ### 🚀 DevOps, Cloud & Tools
 
@@ -72,89 +65,70 @@ I’ve **upgraded authentication** (JWT → modern, production-ready auth) and i
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 
+---
 
-## 📊 Professional Experience
+## 💼 Professional Experience
 
-### **Teaching Assistant - C Programming**
-*China University of Petroleum • September 2023 - Present*
-- Provide technical guidance to 150+ undergraduate students on fundamental programming concepts
-- Develop supplemental learning materials and practical coding exercises
-- Conduct code reviews and debugging sessions to enhance student comprehension
-- Assist in curriculum development and laboratory instruction
+### **Teaching Assistant — C Programming**
 
-### **Full-Stack Project Portfolio**
-*Independent Development • 2022 - Present*
-- Engineered 10+ production-ready web applications using MERN stack technologies
-- Implemented secure authentication systems with Firebase and JWT
-- Optimized application performance through code splitting and database indexing
-- Deployed scalable solutions with comprehensive testing and documentation
+*China University of Petroleum | Sep 2023 – Present*
 
-## 🎓 Academic Background
+* Support and mentor **150+ undergraduate students** in core programming concepts
+* Conduct debugging sessions, code reviews, and lab assistance
+* Design supplementary exercises to reinforce problem-solving skills
+* Assist faculty with coursework delivery and assessment preparation
 
-**Bachelor of Science in Computer Science**  
-*China University of Petroleum, Beijing*  
-*Expected Graduation: 2027*
+### **Independent Full-Stack Developer**
 
-**Relevant Coursework:**
-- Data Structures & Algorithms
-- Database Management Systems
-- Software Engineering Principles
-- Web Technologies & Development
-- Computer Networks
-- Object-Oriented Programming
+*Project-Based | 2022 – Present*
 
-## 🌐 Multilingual Capabilities
-- **Bengali**: Native Proficiency
-- **English**: Professional Working Proficiency
-- **Chinese (Mandarin)**: Basic Communication Skills
-
-## 📈 Current Focus Areas
-- Developing expertise in cloud architecture (AWS/Azure fundamentals)
-- Enhancing TypeScript implementation in enterprise-scale applications
-- Contributing to open-source React component libraries
-- Preparing for technical interviews and competitive coding challenges
-
-## 🤝 Professional Networking
-Actively seeking connections with:
-- Senior developers for mentorship opportunities
-- Tech startup founders and product managers
-- Academic researchers in software engineering
-- Recruiters specializing in remote developer roles
+* Built **10+ full-stack applications** using MERN and Next.js
+* Designed RESTful APIs and optimized database schemas
+* Implemented secure authentication and role-based access control
+* Deployed applications with CI/CD workflows and production configurations
 
 ---
 
-```javascript
-const professionalProfile = {
-  developer: "Md Maidul Islam",
-  credentials: {
-    education: "BSc Computer Science Candidate",
-    institution: "China University of Petroleum",
-    location: "Beijing, China"
-  },
-  expertise: {
-    primary: "Full-Stack Web Development",
-    stack: "MERN (MongoDB, Express, React, Node.js)",
-    specialties: [
-      "RESTful API Design",
-      "Responsive UI/UX Implementation",
-      "Database Optimization",
-      "Authentication Systems"
-    ]
-  },
-  experience: {
-    technicalInstruction: "1+ year as C Programming Teaching Assistant",
-    projectPortfolio: "10+ deployed applications with production-ready code",
-    collaboration: "Experience in agile development environments"
-  },
-  careerObjectives: [
-    "Secure remote developer position by Q4 2024",
-    "Contribute to meaningful open-source projects",
-    "Establish technical thought leadership through content creation",
-    "Expand professional network in global tech industry"
-  ],
-  availability: {
-    status: "Actively pursuing opportunities",
-    startDate: "Immediate",
-    engagement: ["Remote Positions", "Internships", "Contract Work"]
-  }
-};
+## 🎓 Education
+
+**Bachelor of Science in Computer Science**
+*China University of Petroleum, Beijing*
+**Expected Graduation:** 2027
+
+**Key Coursework**
+
+* Data Structures & Algorithms
+* Database Management Systems
+* Software Engineering
+* Web Technologies
+* Computer Networks
+* Object-Oriented Programming
+
+---
+
+## 🌍 Languages
+
+* **Bengali** — Native
+* **English** — Professional Proficiency
+* **Chinese (Mandarin)** — Basic Communication
+
+---
+
+## 📌 Current Focus
+
+* Advanced TypeScript patterns for large-scale applications
+* Cloud fundamentals (AWS / Azure)
+* Open-source contributions (React & tooling ecosystem)
+* Interview preparation and competitive programming
+
+---
+
+## 🤝 Open to Collaboration
+
+Interested in connecting with:
+
+* Software engineers and mentors
+* Startup founders and product teams
+* Recruiters hiring remote or junior full-stack developers
+
+---
