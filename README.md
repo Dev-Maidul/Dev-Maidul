@@ -45,7 +45,6 @@
 Computer Science undergraduate at **China University of Petroleum** with strong hands-on experience in **full-stack web development** and **technical instruction**. Skilled in building scalable, secure, and maintainable web applications using modern JavaScript frameworks and backend technologies. Combines academic foundations with real-world development experience. Actively seeking **remote roles, internships, or contract opportunities** in software engineering.
 
 ---
-
 ## 🛠️ Technical Proficiencies
 
 ### 🎨 Frontend Development
@@ -63,6 +62,15 @@ Computer Science undergraduate at **China University of Petroleum** with strong 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
+
+### 🧠 Python & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+
+> Currently learning Machine Learning and building data-driven applications using Python ecosystem.
 
 ### 🔐 Authentication & Security
 
