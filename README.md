@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Dev-Maidul/Dev-Maidul/main/github-banner.png" alt="Md Maidul Islam | Full-Stack Developer" width="100%" style="border-radius: 15px; margin-bottom: 20px;" />
 </div>
@@ -264,7 +264,5 @@ const currentFocus = {
 <p align="center">
   <strong>💡 "Turning ideas into scalable, secure, and elegant solutions."</strong>
 </p>
-```
 
----
 
