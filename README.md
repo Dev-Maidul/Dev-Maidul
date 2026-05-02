@@ -1,22 +1,20 @@
+<h1 align="center">
+  👨‍💻 Md Maidul Islam
+</h1>
+
+<h3 align="center">
+  🚀 Full-Stack Developer | MERN & Next.js | Aspiring ML Engineer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Specialist;Machine+Learning+Enthusiast;Problem+Solver+%7C+Codeforces+%2B+LeetCode" />
+</p>
+
 ---
 
-<h1 align="center">Md Maidul Islam — Full-Stack Developer</h1>
-
 <p align="center">
-  <strong>Computer Science Undergraduate</strong> • 
-  <strong>Full-Stack Engineer</strong> • 
-  <strong>Technical Educator</strong>
-</p>
-
-<p align="center">
-  <em>Beijing, China</em> • 
-  <em>Bangladeshi Expatriate</em> • 
-  <em>Open to Remote & Global Opportunities</em>
-</p>
-
-<p align="center">
-  📧 <a href="mailto:maidulislammanik8991@gmail.com">maidulislammanik8991@gmail.com</a> &nbsp;|&nbsp;
-  📞 +86&nbsp;131&nbsp;6175&nbsp;0176
+  📍 Beijing, China • 🌍 Open to Remote Work <br/>
+  📧 maidulislammanik8991@gmail.com • 📞 +86 131 6175 0176
 </p>
 
 <p align="center">
@@ -24,134 +22,117 @@
   <a href="https://www.linkedin.com/in/maidul-devs/">LinkedIn</a> •
   <a href="https://maiduldevs.netlify.app/">Portfolio</a> •
   <a href="https://codeforces.com/profile/Maidul">Codeforces</a> •
-  <a href="https://leetcode.com/u/maidulislammanik8991/">LeetCode</a> •
-  <a href="https://www.upwork.com/freelancers/~01a039892954a8969f?mp_source=share">Upwork</a>
+  <a href="https://leetcode.com/u/maidulislammanik8991/">LeetCode</a>
 </p>
 
-<hr/>
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Dev-Maidul/Dev-Maidul/main/github-banner.png" 
-    alt="Md Maidul Islam | Full-Stack Developer" 
-    width="100%" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Maidul&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Maidul&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<hr/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Maidul&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
 
 ## 🎯 Professional Summary
 
-Computer Science undergraduate at **China University of Petroleum** with strong hands-on experience in **full-stack web development** and **technical instruction**. Skilled in building scalable, secure, and maintainable web applications using modern JavaScript frameworks and backend technologies. Combines academic foundations with real-world development experience. Actively seeking **remote roles, internships, or contract opportunities** in software engineering.
+Computer Science undergraduate at **China University of Petroleum** with hands-on experience in **full-stack web development** and **teaching programming**.
 
----
-## 🛠️ Technical Proficiencies
-
-### 🧠 AI & Machine Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-
-> Currently learning Machine Learning and building data-driven applications using Python ecosystem.
-
-### 🎨 Frontend Development
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-
-### ⚙️ Backend & Databases
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
-
-
-
-### 🔐 Authentication & Security
-
-![Auth.js](https://img.shields.io/badge/Auth.js_\(NextAuth\)-000000?style=for-the-badge\&logo=auth0\&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth_2.0-3C3C3D?style=for-the-badge\&logo=openid\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Sessions-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
-
-> Secure authentication with OAuth providers, session-based authentication, and JWT strategies.
-
-### 🚀 DevOps, Cloud & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+✔ Built 10+ production-ready applications  
+✔ Mentored 150+ students  
+✔ Strong in MERN + Next.js ecosystem  
+✔ Now expanding into **Machine Learning with Python**
 
 ---
 
-## 💼 Professional Experience
+## 🧠 AI & Machine Learning
 
-### **Teaching Assistant — C Programming**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
 
-*China University of Petroleum | Sep 2023 – Present*
-
-* Mentored **150+ undergraduate students** in core programming concepts
-* Conducted debugging sessions and code reviews
-* Developed supplementary learning materials and lab exercises
-* Supported faculty with coursework delivery and assessments
-
-### **Independent Full-Stack Developer**
-
-*Project-Based | 2022 – Present*
-
-* Developed **10+ full-stack applications** using MERN and Next.js
-* Designed RESTful APIs and optimized database schemas
-* Implemented authentication, authorization, and role-based access
-* Deployed applications with production-ready configurations
+> 🔍 Currently learning ML and building data-driven applications.
 
 ---
 
-## 🎓 Education
+## 🎨 Frontend Development
 
-**Bachelor of Science in Computer Science**
-*China University of Petroleum, Beijing*
-**Expected Graduation:** 2027
-
-**Relevant Coursework**
-
-* Data Structures & Algorithms
-* Database Management Systems
-* Software Engineering
-* Web Technologies
-* Computer Networks
-* Object-Oriented Programming
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
+</p>
 
 ---
 
-## 🌍 Languages
+## ⚙️ Backend & Databases
 
-* **Bengali** — Native
-* **English** — Professional Proficiency
-* **Chinese (Mandarin)** — Basic Communication
-
----
-
-## 📌 Current Focus
-
-* Advanced TypeScript for large-scale applications
-* Cloud fundamentals (AWS / Azure)
-* Competitive programming (Codeforces & LeetCode)
-* Open-source contributions
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+</p>
 
 ---
 
-## 🤝 Open to Opportunities
+## 🔐 Security & Authentication
 
-* Remote full-stack developer roles
-* Internships and contract-based projects
-* Open-source collaboration
-* Technical mentorship and learning opportunities
+<p align="center">
+  <img src="https://img.shields.io/badge/Auth.js-000000?style=for-the-badge&logo=auth0"/>
+  <img src="https://img.shields.io/badge/OAuth-3C3C3D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+</p>
+
+---
+
+## 🚀 DevOps & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,vercel" />
+</p>
+
+---
+
+## 💼 Experience
+
+### 🧑‍🏫 Teaching Assistant — C Programming  
+**China University of Petroleum | 2023–Present**
+
+- Mentored 150+ students  
+- Conducted debugging & problem-solving sessions  
+- Assisted in academic coursework delivery  
+
+---
+
+### 💻 Full-Stack Developer (Freelance)
+
+- Built 10+ MERN & Next.js applications  
+- Designed REST APIs & scalable architectures  
+- Implemented secure authentication systems  
+
+---
+
+## 📈 Current Focus
+
+- 🧠 Machine Learning (Python, Pandas, NumPy)
+- ⚡ Advanced Next.js & TypeScript
+- ☁️ Cloud (AWS / Azure)
+- 🧩 DSA (Codeforces & LeetCode)
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dev-Maidul&label=Profile+Views&color=blue&style=flat"/>
+</p>
+
+<p align="center">
+  💼 Open for Remote Jobs | Internships | Freelance
+</p>
 
 ---
