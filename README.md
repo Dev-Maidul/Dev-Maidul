@@ -81,22 +81,53 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **Technical Proficiencies**
 
-### 🧠 AI & Machine Learning
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **Technical Proficiencies**
 
-**Core Languages & Libraries**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### 🧠 AI, Machine Learning & Data Science
 
-**Data Visualization**
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="NumPy" width="65" height="65" />
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Pandas" width="65" height="65" />
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Matplotlib" width="65" height="65" />
+      <br>Matplotlib
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Seaborn" width="65" height="65" />
+      <br>Seaborn
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Plotly" width="65" height="65" />
+      <br>Plotly
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Streamlit" width="65" height="65" />
+      <br>Streamlit
+    </td>
+  </tr>
+</table>
 
-**Application Framework**
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+| **Category** | **Technologies** | **Purpose** |
+|-------------|------------------|-------------|
+| 🐍 **Core Language** | `Python` | Primary programming language for ML & Data Science |
+| 🔢 **Numerical Computing** | `NumPy` | Mathematical operations & array manipulation |
+| 📊 **Data Manipulation** | `Pandas` | Data cleaning, transformation & analysis |
+| 📈 **Static Visualization** | `Matplotlib` `Seaborn` | Publication-quality statistical graphics |
+| 📉 **Interactive Visualization** | `Plotly` | Interactive dashboards & dynamic charts |
+| 🚀 **Application Framework** | `Streamlit` | Rapid ML app prototyping & deployment |
 
-> 📚 *Currently diving deep into Machine Learning & building data-driven applications with rich interactive visualizations*
+---
 
 ### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
