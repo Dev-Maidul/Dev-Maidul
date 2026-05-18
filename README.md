@@ -8,10 +8,27 @@
 
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-  Md Maidul Islam — Full-Stack Software Engineer | AI/ML Enthusiast
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  <img 
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+    width="35px"
+  />
+  Md Maidul Islam
+  <img 
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+    width="35px"
+  />
 </h1>
+
+<h3 align="center">
+  Full-Stack Software Engineer • AI/ML Enthusiast
+</h3>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Exploring+Machine+Learning+%26+AI;MERN+Stack+%7C+Next.js+%7C+Python;Problem+Solver+%7C+Open+to+Remote+Opportunities" 
+    alt="Typing Animation"
+  />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
