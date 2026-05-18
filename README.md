@@ -1,7 +1,11 @@
 
-<div align="center">
-  <img src="./Banner.png" alt="Md Maidul Islam | Full-Stack Developer" width="100%" style="border-radius: 15px; margin-bottom: 20px;" />
-</div>
+
+  <p align="center">
+  <a href="https://maiduldevs.netlify.app/">
+    <img src="./Banner.png" width="100%" />
+  </a>
+</p>
+
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
