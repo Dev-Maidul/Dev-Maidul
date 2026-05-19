@@ -92,7 +92,7 @@
         <li>⚡ Strong hands-on experience in <strong>full-stack web development</strong></li>
         <li>👨‍🏫 Experienced <strong>Technical Instructor</strong> (mentored 150+ students)</li>
         <li>🔐 Skilled in authentication, authorization & secure application design</li>
-        <li>🌍 Actively seeking <strong>remote roles, internships & contract opportunities</strong></li>
+        
       </ul>
     </td>
   </tr>
