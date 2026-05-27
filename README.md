@@ -89,7 +89,7 @@
     <td>
       <ul>
         <li>🎓 Computer Science undergraduate at <strong>China University of Petroleum</strong></li>
-        <li>⚡ Strong hands-on experience in <strong>full-stack web development</strong></li>
+        <li>⚡ Strong hands-on experience in <strong>Full-Stack Web Development</strong></li>
         <li>👨‍🏫 Experienced <strong>Technical Instructor</strong> (mentored 200+ students)</li>
       </ul>
     </td>
