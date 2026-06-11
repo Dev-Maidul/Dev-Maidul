@@ -20,7 +20,7 @@
 </h1>
 
 <h3 align="center">
-  
+Full Stack Developer | AI/ML Enthusiast
 </h3>
 
 <p align="center">
