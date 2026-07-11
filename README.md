@@ -1,717 +1,264 @@
 <p align="center">
-  <img src="./Banner.png" width="100%" alt="Banner"/>
+  <a href="https://maiduldevs.netlify.app/">
+    <img src="./Banner.png" width="100%" />
+  </a>
 </p>
 
 <h1 align="center">
-Hi 👋, I'm Md Maidul Islam
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+  Md Maidul Islam
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
 </h1>
 
-<h3 align="center">
-Computer Science Undergraduate • AI & Machine Learning Researcher • Teaching Assistant
-</h3>
+<h3 align="center">Computer Science Researcher | AI/ML Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Exploring+High-Dimensional+Data+Mining;Researching+Distance-Based+Methods+%26+Hubness;Building+Scalable+AI+Systems;Seeking+MSc+%26+PhD+Opportunities" alt="Typing Animation" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Computer+Science+Student+at+China+University+of+Petroleum;Researching+Machine+Learning+and+High-Dimensional+Data+Mining;Teaching+Assistant+for+C+Programming;Building+AI+Systems+with+Strong+Theoretical+Foundations;Aspiring+MSc+%2F+PhD+Researcher" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Beijing%2C%20China-4F8AF7?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nationality-Bangladeshi-006A4E?style=for-the-badge&logo=flag&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Academic%20Researcher-brightgreen?style=for-the-badge&logo=researchgate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fully%20Funded%20Scholar-003366?style=for-the-badge&logo=silver&logoColor=white" />
+</p>
 
+<p align="center">
+  <a href="mailto:maidulislammanik8991@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/maidul-devs/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Dev-Maidul">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://scholar.google.com/">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+  </a>
+  <a href="https://maiduldevs.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://codeforces.com/profile/Maidul">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://leetcode.com/u/maidulislammanik8991/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dev-Maidul&label=Profile%20Views&color=4F8AF7&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Dev-Maidul?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Dev-Maidul?label=Stars&style=social" alt="Stars" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 🎓 Academic Profile
 
-I am a **Computer Science undergraduate** at **China University of Petroleum (Beijing)**, where I study under a **Full Merit Scholarship**.
-
-My long-term goal is to pursue an **MSc and PhD in Artificial Intelligence and Machine Learning**, focusing on theoretical and practical challenges in modern data science.
-
-My research combines
-
-- Machine Learning
-- High-Dimensional Data Mining
-- Statistical Learning
-- Representation Learning
-- Large Language Models
-- Retrieval-Augmented Generation (RAG)
-
-with practical software engineering to develop scalable, reproducible, and impactful AI systems.
-
-Besides research, I enjoy mentoring students, contributing to open-source software, and building intelligent applications that bridge academia and industry.
-
----
-
-# 🎓 Education
-
-## China University of Petroleum (Beijing)
-
-**Bachelor of Computer Science and Technology**
-
-📍 Beijing, China
-
-**September 2023 – June 2027 (Expected)**
-
-🏅 **Full Scholarship Recipient**
-
-### Relevant Coursework
-
-- Artificial Intelligence
-- Data Structures & Algorithms
-- Operating Systems
-- Compiler Principles
-- Assembly Language
-- Linear Algebra
-- Discrete Mathematics
-- Database Systems
-- Computer Networks
+<table align="center">
+  <tr>
+    <td width="60%">
+      <h3>📚 Education</h3>
+      <p><strong>Bachelor of Science in Computer Science & Technology</strong><br />
+      <em>China University of Petroleum, Beijing (CUPB)</em><br />
+      <strong>Sep 2023 – June 2027 (Expected)</strong><br />
+      🏆 <strong>Full Scholarship Recipient</strong> (Merit-based)</p>
+      
+      <h4>📖 Relevant Coursework</h4>
+      <ul>
+        <li><strong>Core:</strong> Artificial Intelligence, Data Structures & Algorithms, Operating Systems, Compiler Principles</li>
+        <li><strong>Mathematics:</strong> Linear Algebra, Discrete Mathematics</li>
+        <li><strong>Systems:</strong> Assembly Language, Computer Architecture</li>
+      </ul>
+      
+      <h4>📊 Academic Achievements</h4>
+      <ul>
+        <li>🏅 <strong>CUPB Full Scholarship</strong> — Merit-based scholarship awarded to outstanding international students (2023–Present)</li>
+        <li>📚 <strong>DTE Technical Education Stipend</strong> — Government stipend awarded by the Directorate of Technical Education (DTE), Bangladesh (2018–2022)</li>
+        <li>🏆 <strong>Best Book Reviewer Award (Rangpur Division)</strong> — Bangladesh Technical Education Board (BTEB)</li>
+        <li>🥇 <strong>Class Achievement Award</strong> — 1st Position in annual examination at Upazila level (2010–2011)</li>
+      </ul>
+    </td>
+    <td width="40%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Research Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 🔬 Research Interests
+## 🔬 Research Experience
 
-My current research interests include
+### 📊 When Do Distance-Based Methods Fail? Empirical Scaling Laws and Actionable Thresholds for High-Dimensional Data Mining
+**Jan 2026 – Present** | *China University of Petroleum, Beijing*
 
-- Artificial Intelligence
-- Machine Learning
-- Statistical Machine Learning
-- Representation Learning
-- High-Dimensional Data Mining
-- Embedding Analysis
-- Deep Learning
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Explainable AI
-- Scientific Machine Learning
-- Information Retrieval
-
----
-
-# 🔬 Research Experience
-
-## When Do Distance-Based Methods Fail?
-
-### Empirical Scaling Laws and Actionable Thresholds for High-Dimensional Data Mining
-
-**2026 – Present**
-
-Currently conducting research investigating the failure mechanisms of distance-based algorithms in high-dimensional spaces.
-
-### Research Contributions
-
-- Designed and implemented a complete experimental framework in Python.
-- Conducted more than **50,000 large-scale simulation experiments** across **10 probability distributions**.
-- Validated theoretical findings on **14 real-world embedding datasets** spanning NLP, computer vision, and biology.
-- Investigated the relationship between intrinsic dimensionality and nearest-neighbor reliability.
-- Explored theoretical conditions governing hubness and distance concentration.
-- Developed reproducible computational pipelines for large-scale experiments.
-
-### Key Findings
-
-- Derived an empirical scaling law describing the decay of relative distance contrast.
-
-- Identified an approximate intrinsic dimensionality threshold where kNN performance begins to deteriorate.
-
-- Demonstrated theoretical boundaries under finite third-moment assumptions.
-
-- Successfully validated predictions on biological single-cell RNA sequencing datasets.
+<table>
+  <tr>
+    <td width="70%">
+      <h4>🎯 Research Contributions</h4>
+      <ul>
+        <li>🔬 Designed complete experimental pipeline and simulation codebase with <strong>50,000+ trials</strong> across 10 distributions</li>
+        <li>📈 Validated findings on <strong>14 real embedding datasets</strong> (text, vision, biology)</li>
+        <li>📐 Discovered scaling law: <strong>C_rel(d) = 17.35 · d^(-0.623)</strong></li>
+        <li>🎯 Identified practical kNN failure threshold at <strong>intrinsic dimension ≈ 100</strong></li>
+        <li>📝 Established <strong>finite third-moment boundary condition</strong> (new theoretical result)</li>
+        <li>🧬 <strong>Biological validation:</strong> scRNA-PBMC (d_int = 103.2) matches Laplace-level hubness predictions within <strong>1%</strong> with no dataset-specific fitting — confirming laws transfer to real biological data</li>
+      </ul>
+    </td>
+    <td width="30%">
+      <h4>🛠️ Methods</h4>
+      <ul>
+        <li>Python</li>
+        <li>NumPy/SciPy</li>
+        <li>Scikit-learn</li>
+        <li>Matplotlib/Seaborn</li>
+        <li>Statistical Analysis</li>
+        <li>High-Dimensional Data</li>
+        <li>Hubness Theory</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 📄 Publication
+## 👨‍🏫 Teaching Experience
 
-## Under Review
+### Teaching Assistant — C Programming
+**China University of Petroleum, Beijing** | *Sep 2023 – Present*
 
-### **When Do Distance-Based Methods Fail?**
-
-**Empirical Scaling Laws and Actionable Thresholds for High-Dimensional Data Mining**
-
-**Journal**
-
-Springer — *Data Mining and Knowledge Discovery (DAMI)*
-
-**Status**
-
-🟡 Under Review
-
-### Research Areas
-
-- Machine Learning
-- Data Mining
-- High-Dimensional Statistics
-- Representation Learning
-- Embeddings
-- Similarity Search
+- 🎓 Mentored <strong>200+ students</strong> in C programming, logic building, and debugging across multiple semesters
+- 🏫 Conducted weekly office hours, reviewed assignments, and contributed to measurable improvement in course outcomes
+- 📚 Developed supplementary learning materials and lab exercises
+- 🤝 Supported faculty with coursework delivery and assessments
 
 ---
 
-# 👨‍🏫 Teaching Experience
+## 💻 Research & Technical Skills
 
-## Teaching Assistant — C Programming
+### 🧠 AI & Machine Learning
+| Category | Technologies |
+|----------|--------------|
+| **Deep Learning** | PyTorch, TensorFlow |
+| **ML Frameworks** | Scikit-learn, NumPy, Pandas, Matplotlib |
+| **Specialized** | LLMs, RAG Systems, Embeddings, Vector Databases, Semantic Search |
+| **Data Mining** | High-Dimensional Analysis, Hubness Theory, Statistical Computing |
 
-**China University of Petroleum (Beijing)**
+### 🖥️ Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**March 2024 – Present**
-
-Responsibilities include
-
-- Mentoring more than **200 undergraduate students** in C programming.
-- Teaching algorithmic thinking and logical problem solving.
-- Conducting weekly debugging and consultation sessions.
-- Reviewing assignments and programming projects.
-- Supporting instructors in laboratory sessions.
-- Assisting in course management and assessments.
-
-Teaching has strengthened my communication skills while deepening my understanding of programming fundamentals and computer science education.
-
----
-
-# 🎯 Research Vision
-
-I believe modern Artificial Intelligence should be
-
-- mathematically grounded,
-- computationally efficient,
-- interpretable,
-- scalable,
-- and reproducible.
-
-My long-term objective is to contribute to fundamental research that improves the reliability and understanding of machine learning systems while developing practical AI applications with real-world impact.
+### 🏗️ Development & Deployment
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-# 🌱 Current Academic Focus
+## 📂 Selected Research Projects
 
-I am currently exploring
+### 🛒 Jonopro.com — Multivendor E-Commerce Platform
+**Founder & Developer** | *Full-Stack Application*
 
-- Representation Learning
-- Distance Concentration
-- Intrinsic Dimensionality
-- Statistical Learning Theory
-- Deep Learning
-- Retrieval-Augmented Generation (RAG)
-- Vector Databases
-- LLM Applications
-- Scientific AI
+- 🏗️ Built role-based dashboards (vendor/admin/customer) with **JWT authentication**
+- 📊 Implemented live sales analytics and security monitoring
+- 🛡️ Developed suspicious login detection system
+- 🔧 Stack: React.js, Express.js, MongoDB, Firebase Auth, REST API, React Query
 
----
+### 🎓 IELTS Abroad — IELTS Preparation & Study Abroad Platform
+**Founder & Developer**
 
-# 📈 Research Philosophy
-
-> *"Strong theoretical understanding combined with reproducible engineering leads to impactful scientific research."*
-
----
-# 🚀 Selected Research & Software Projects
-
-Although my primary focus is academic research, I enjoy building software systems that solve real-world problems and demonstrate the practical application of computer science principles.
+- 🌍 Conducted IELTS Speaking mock tests with students from 10+ countries
+- 📝 Created real-world practice content and resources
+- 🇧🇩 Developed online platform providing IELTS preparation and study abroad guidance for Bangladeshi students
 
 ---
 
-## 🔬 High-Dimensional Data Mining Research Framework
+## 🏆 Awards & Scholarships
 
-**Research Project**
-
-Developed a reproducible experimental framework for investigating the behavior of distance-based algorithms in high-dimensional spaces.
-
-### Highlights
-
-- Designed simulation pipeline for **50,000+ experiments**
-- Evaluated **10 statistical distributions**
-- Validated on **14 real-world embedding datasets**
-- Automated large-scale experiment workflows
-- Built visualization and statistical analysis tools
-- Ensured reproducibility for scientific research
-
-**Technologies**
-
-`Python` • `NumPy` • `Pandas` • `Matplotlib` • `Scikit-learn`
+| Award | Institution | Year |
+|-------|-------------|------|
+| **CUPB Full Scholarship** | China University of Petroleum | 2023–Present |
+| **DTE Technical Education Stipend** | Directorate of Technical Education, Bangladesh | 2018–2022 |
+| **Best Book Reviewer Award (Rangpur Division)** | Bangladesh Technical Education Board | — |
+| **Class Achievement Award (1st Position)** | Upazila Level Examination | 2010–2011 |
+| **Primary School Merit Scholarship** | Ministry of Primary & Mass Education, Bangladesh | 2008 |
+| **Prothom Alo Bondhushava Award** | Prothom Alo (Bangladesh's leading newspaper) | 2008 |
 
 ---
 
-## 🛒 Jonoprio.com — Multivendor E-Commerce Platform
+## 🎤 Leadership & Community Engagement
 
-Founder & Full-Stack Developer
+### Academic & Campus
+- **English Language Association, CUPB** — Active member, contributed to communication workshops and campus events
+- **Silk Road Youth Readers Hub** — Campus reading and discussion group
+- **CUPB Campus Activities**: Opening Ceremony 2025, Autumn & Spring Sports Meetings, Fire Prevention Lecture, AIDS Prevention Health Education
 
-A production-ready multivendor e-commerce platform featuring scalable architecture and modern web technologies.
-
-### Features
-
-- Vendor, Admin & Customer dashboards
-- Authentication & Authorization
-- Product Management
-- Sales Analytics
-- Security Monitoring
-- Suspicious Login Detection
-- Payment Integration
-- Responsive UI
-
-**Tech Stack**
-
-React.js • Express.js • MongoDB • JWT • Firebase • React Query • Tailwind CSS
-
-🔗 https://jonoprio.com
+### Volunteering
+- **Aplan Mask Kotay Campaign (BEXIMCO Pharma)** — Public health awareness volunteering, COVID-19 mask promotion (2020)
 
 ---
 
-## 🌍 IELTS Abroad
+## 📚 Professional Development
 
-Founder & Developer
-
-A comprehensive IELTS preparation and study abroad platform designed for Bangladeshi students.
-
-### Contributions
-
-- Conducted IELTS Speaking mock tests with students from **10+ countries**
-- Built a scalable educational platform
-- Developed student management system
-- Produced educational content
-- Improved accessibility for international learners
-
-🔗 https://ieltsabroad.com
+| Category | Programs |
+|----------|----------|
+| **AI/ML Engineering** | Photron Expert Batch 2 (Python, ML, Deep Learning, LLMs, RAG, Embeddings) |
+| **Full-Stack Development** | Programming Hero: MERN Stack; Next Level Web Dev (TypeScript, Cloud Architecture) |
+| **Soft Skills** | Art of Public Speaking (BYLCx); Presentation & Body Language (SDO); Citizen Journalism (BDOJS) |
 
 ---
 
-## 🧪 Additional Academic & Engineering Projects
-
-- Intelligent Assessment Platform
-- RESTful API Systems
-- AI-powered Web Applications
-- Authentication Systems
-- Database Design Projects
-- Open Source Contributions
-
----
-
-# 💻 Technical Skills
-
-## Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,sql"/>
-
-</p>
-
-Python • C • C++ • JavaScript • TypeScript • SQL
-
----
-
-## Artificial Intelligence & Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-
-</p>
-
-- PyTorch
-- TensorFlow
-- Scikit-learn
-- NumPy
-- Pandas
-- Matplotlib
-- Deep Learning
-- Machine Learning
-- Supervised Learning
-- Unsupervised Learning
-- Embeddings
-- Vector Databases
-- RAG Systems
-- Large Language Models (LLMs)
-
----
-
-## Web Technologies
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,prisma"/>
-
-</p>
-
-- React.js
-- Next.js
-- Node.js
-- Express.js
-- MongoDB
-- PostgreSQL
-- Prisma
-- REST APIs
-- Firebase
-- Tailwind CSS
-
----
-
-## Tools & Platforms
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,aws,firebase,postman"/>
-
-</p>
-
-- Git
-- GitHub
-- Docker
-- Linux
-- VS Code
-- AWS
-- Firebase
-- Postman
-- Vercel
-- Netlify
-
----
-
-# 🏆 Awards & Scholarships
-
-🥇 **CUPB Full Scholarship**
-
-Merit-based scholarship awarded to outstanding international students at China University of Petroleum (Beijing).
-
----
-
-🥈 **Directorate of Technical Education (Bangladesh) Stipend**
-
-Government-funded academic scholarship awarded throughout Diploma in Computer Science & Technology.
-
----
-
-🥉 **Best Book Reviewer Award**
-
-Awarded by the Bangladesh Technical Education Board (BTEB) for excellence in book reviewing.
-
----
-
-🏅 **Class Achievement Award**
-
-Secured **1st Position** in the annual examination at Upazila level.
-
----
-
-🎖 **Primary School Merit Scholarship**
-
-Awarded by the Ministry of Primary and Mass Education, Bangladesh.
-
----
-
-⭐ **Prothom Alo Bondhushava Award**
-
-Recognition for outstanding participation and achievement in youth development activities.
-
----
-
-# 🌍 Leadership & Volunteering
-
-## China University of Petroleum
-
-- English Language Association
-- Silk Road Youth Readers Hub
-- Campus Sports Activities
-- Academic Workshops
-- International Student Events
-
----
-
-## Community Service
-
-### BEXIMCO Pharma
-
-**Apnar Mask Kotay Campaign**
-
-COVID-19 public health awareness volunteer promoting preventive healthcare initiatives.
-
----
-
-# 📚 Professional Development
-
-## Artificial Intelligence & Machine Learning
-
-- Machine Learning
-- Deep Learning
-- Large Language Models
-- Retrieval-Augmented Generation (RAG)
-- Embeddings
-- AI Engineering
-
----
-
-## Full Stack Development
-
-- MERN Stack
-- Next.js
-- TypeScript
-- Cloud Architecture
-- REST APIs
-- Modern Web Engineering
-
----
-
-## Professional Skills
-
-- Public Speaking
-- Scientific Presentation
-- Technical Writing
-- Leadership
-- Communication
-- Team Collaboration
-
----
-
-# 🌐 Languages
+## 🌍 Languages
 
 | Language | Proficiency |
-|-----------|-------------|
-| 🇧🇩 Bengali | Native |
-| 🇬🇧 English | Professional Proficiency |
-| 🇨🇳 Chinese (HSK4) | Intermediate |
+|----------|-------------|
+| **Bangla** | Native |
+| **English** | Professional (English-medium degree) |
+| **Chinese** | HSK Level 4 |
 
 ---
 
-# 🤝 Open to Academic Collaboration
-
-I am interested in collaborating on
-
-- Machine Learning Research
-- Artificial Intelligence
-- Data Mining
-- Statistical Learning
-- Scientific Computing
-- Representation Learning
-- Open-source Research Software
-- Educational Technologies
-
-If your research overlaps with these areas, I would be delighted to collaborate.
----
-
-# 📊 GitHub Analytics
+## 🔍 Research Interests
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dev-Maidul&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Maidul&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Dev-Maidul&theme=transparent&hide_border=true"/>
-
+  <img src="https://img.shields.io/badge/High--Dimensional_Data_Mining-4F8AF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Distance--Based_Methods-00A86B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hubness_Theory-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dimensionality_Reduction-9B59B6?style=for-the-badge" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Maidul&theme=github-compact&hide_border=true"/>
-
-</p>
-
----
-
-# 📖 Current Research Directions
-
-I am currently exploring several research directions that combine theoretical machine learning with practical AI systems.
-
-## Current Topics
-
-- High-Dimensional Machine Learning
-- Representation Learning
-- Statistical Learning Theory
-- Intrinsic Dimensionality
-- Similarity Search
-- Vector Embeddings
-- Large Language Models
-- Retrieval-Augmented Generation (RAG)
-- AI for Scientific Discovery
-- Explainable Artificial Intelligence
-- Trustworthy Machine Learning
-
----
-
-# 🎯 Graduate Study Objective
-
-My long-term goal is to pursue **MSc and PhD studies** in **Artificial Intelligence and Machine Learning**, contributing to both theoretical and applied research.
-
-I am particularly interested in working on
-
-- Machine Learning Theory
-- Statistical Learning
-- Representation Learning
-- Foundation Models
-- Large Language Models
-- Scientific AI
-- Computational Biology
-- High-Dimensional Statistics
-- Data Mining
-- Information Retrieval
-
-I aspire to conduct research that advances our understanding of intelligent systems while developing practical algorithms that can benefit science and society.
-
----
-
-# 🌎 Research Philosophy
-
-> **"Research should be mathematically rigorous, computationally reproducible, and practically impactful."**
-
-I strongly believe that the combination of
-
-- theoretical understanding,
-- reproducible experiments,
-- open science,
-- and collaborative research
-
-is essential for advancing modern Artificial Intelligence.
-
----
-
-# 📚 Selected Coursework
-
-### Artificial Intelligence
-
-### Data Structures & Algorithms
-
-### Operating Systems
-
-### Compiler Principles
-
-### Linear Algebra
-
-### Discrete Mathematics
-
-### Assembly Language
-
-### Database Systems
-
----
-
-# 🔍 Areas of Interest
-
-```text
-Artificial Intelligence
-
-Machine Learning
-
-Deep Learning
-
-Data Mining
-
-Representation Learning
-
-Statistical Learning
-
-High-Dimensional Geometry
-
-Embeddings
-
-Similarity Search
-
-Scientific Computing
-
-Large Language Models
-
-RAG Systems
-
-Information Retrieval
-
-Computer Vision
-
-Natural Language Processing
-```
-
----
-
-# 💡 Beyond Research
-
-Outside academics, I enjoy
-
-- Building open-source software
-- Mentoring students
-- Reading AI research papers
-- Competitive programming
-- Technical writing
-- Exploring new technologies
-- Participating in research communities
-
-I believe strong software engineering enables stronger scientific research.
-
----
-
-# 🤝 Let's Collaborate
-
-I am always interested in collaborating on
-
-- AI Research
-- Machine Learning
-- Data Mining
-- Open-source Research Software
-- Educational Technologies
-- Reproducible Research
-- Student Research Projects
-
-Feel free to reach out if our interests overlap.
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:maidulislammanik8991@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dev-Maidul">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/maidul-devs/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://maiduldevs.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/maidulislammanik8991/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codeforces.com/profile/Maidul">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 📄 Curriculum Vitae
-
-For my complete academic CV, research experience, publications, and achievements, please refer to my latest curriculum vitae.
-
-📧 Email me if you would like a copy or have questions regarding my research.
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Dev-Maidul&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
-
-</p>
-
----
-
-<p align="center">
-
-### ⭐ If you find my work interesting, consider following my GitHub or connecting with me on LinkedIn.
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
-
-</p>
-
+## 📖 Current Research Focus
+
+```python
+research_interests = {
+    "primary": "High-Dimensional Data Mining & Analysis",
+    "methods": ["Distance-Based Methods", "Hubness Theory", "kNN Classification"],
+    "applications": ["Biological Data", "Text Embeddings", "Vision Embeddings"],
+    "theoretical": ["Scaling Laws", "Intrinsic Dimensionality", "Finite Moment Conditions"],
+    "future": "Exploring theoretical foundations of similarity search in high dimensions"
+}
+🎯 Seeking Opportunities
+<table align="center"> <tr> <td align="center"> <img src="https://img.shields.io/badge/✅-MSc_Research_Positions-success?style=for-the-badge" /> </td> <td align="center"> <img src="https://img.shields.io/badge/✅-PhD_Research_Opportunities-blue?style=for-the-badge" /> </td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/✅-Research_Assistantships-orange?style=for-the-badge" /> </td> <td align="center"> <img src="https://img.shields.io/badge/✅-Academic_Collaborations-purple?style=for-the-badge" /> </td> </tr> </table>
+
+
+📫 Connect With Me
+<p align="center"> <a href="mailto:maidulislammanik8991@gmail.com"> <img src="https://img.shields.io/badge/Email_Discuss_Research-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/maidul-devs/"> <img src="https://img.shields.io/badge/Academic_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Dev-Maidul"> <img src="https://img.shields.io/badge/Research_Code-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://scholar.google.com/"> <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /> </a> </p>
+
+📊 GitHub Statistics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dev-Maidul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8AF7&icon_color=4F8AF7&text_color=FFFFFF" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Maidul&theme=tokyonight&hide_border=true&background=0D1117&ring=4F8AF7&fire=4F8AF7&currStreakLabel=4F8AF7" alt="GitHub Streak" width="48%" /> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Maidul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8AF7&text_color=FFFFFF" alt="Top Languages" width="40%" /> </p>
+<p align="center"> <strong>🔬 "Advancing the frontiers of high-dimensional data mining and machine learning through rigorous research and theoretical exploration."</strong> </p><p align="center"> <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"> </p><p align="center"> <em>📝 References available upon request — including professors with direct knowledge of research contribution and teaching performance.</em> </p> ```
